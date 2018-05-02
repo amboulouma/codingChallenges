@@ -4,7 +4,7 @@ A repo containing my coding challenges with their previews
 
 ## Challenges
 
-* [Fractal Trees](https://aminemboulouma.github.io/codingChallenges/fractalTrees)
+* [Fractal Trees (recursive)](https://aminemboulouma.github.io/codingChallenges/fractalTrees)
 
 ## Find me 
 * [Website](https://amine.boulouma.com)
