@@ -1,6 +1,6 @@
-# Randomly
+# Coding Challenges
 
-A repo containing my coding challenges
+A repo containing my coding challenges with their previews
 
 ## Challenges
 
