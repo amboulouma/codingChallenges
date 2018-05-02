@@ -2,14 +2,14 @@ var angles;
 var slider;
 
 function setup(){
-    createCanvas(1200, 800);
+    createCanvas(500, 500);
 }
 
 function draw(){
-    background(51);
-    stroke(255);
+    background(30, 100, 255);
+    stroke(0, 255, 0);
     translate(width/2, height);
-    tree(250, PI/6);
+    tree(150, PI/6);
 }
 
 function tree(branch_length, angle){
