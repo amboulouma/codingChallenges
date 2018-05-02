@@ -2,7 +2,7 @@
 
 A repo containing my coding challenges with their previews
 
-## Challenges Preview
+## Challenges Previews
 
 * [Fractal Trees (recursive)](https://aminemboulouma.github.io/codingChallenges/fractalTrees)
 
