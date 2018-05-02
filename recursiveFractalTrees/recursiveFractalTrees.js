@@ -1,6 +1,4 @@
 var angles;
-var slider;
-
 function setup(){
     createCanvas(500, 500);
 }
