@@ -5,6 +5,7 @@ A repo containing my coding challenges with their previews
 ## Challenges Previews
 
 * [Fractal Trees (recursive)](https://aminemboulouma.github.io/codingChallenges/recursiveFractalTrees)
+* [Fractal Trees (object-oriented)](https://aminemboulouma.github.io/codingChallenges/OOFractalTrees)
 
 ## Find me 
 * [Website](https://amine.boulouma.com)
