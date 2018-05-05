@@ -1,10 +1,6 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for this video: https://youtu.be/BAejnwN4Ccw
 
 var cities = [];
-var totalCities = 5;
+var totalCities = 7;
 
 var recordDistance;
 var bestEver;
@@ -38,7 +34,7 @@ function draw() {
   }
   endShape();
 
-  stroke(255, 0, 255);
+  stroke(0, 0, 255);
   strokeWeight(4);
   noFill();
   beginShape();
