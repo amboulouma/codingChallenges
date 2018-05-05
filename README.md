@@ -6,6 +6,7 @@ A repo containing my coding challenges with their previews
 
 * [Fractal Trees (recursive)](https://aminemboulouma.github.io/codingChallenges/recursiveFractalTrees)
 * [Fractal Trees (object-oriented)](https://aminemboulouma.github.io/codingChallenges/OOFractalTrees)
+* [TSP (Traveling SalesPerson)](https://aminemboulouma.github.io/codingChallenges/travelingSalesPerson)
 
 ## Find me 
 * [Website](https://amine.boulouma.com)
