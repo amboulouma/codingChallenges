@@ -1,13 +1,13 @@
 # Coding Challenges
 
-A repo containing my coding challenges with their [previews](aminemboulouma.github.io/codingChallenges)
+A repo containing my coding challenges with their [previews](https://aminemboulouma.github.io/codingChallenges)
 
 ## Challenges 
 
 * [Fractal Trees (recursive)](https://aminemboulouma.github.io/codingChallenges/recursiveFractalTrees)
 * [Fractal Trees (object-oriented)](https://aminemboulouma.github.io/codingChallenges/OOFractalTrees)
 * [TSP (Traveling SalesPerson)](https://aminemboulouma.github.io/codingChallenges/travelingSalesPerson)
-* [A* pathfinding algorithm](https://aminemboulouma.github.io/codingChallenges/A_start_pathfinding)
+* [A* pathfinding algorithm](https://aminemboulouma.github.io/codingChallenges/A_star_pathfinding)
 
 ## Find me 
 * [Website](https://amine.boulouma.com)
