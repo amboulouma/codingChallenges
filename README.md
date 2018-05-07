@@ -20,4 +20,4 @@ A repo containing my coding challenges with their [previews](https://aminemboulo
 * [Twitter](https://www.twitter.com/aminemboulouma)
 * [Medium](https://www.medium.com/@aminemboulouma)
 
-## A lot of aknowlegments and thanks for my professor during the learning of those techniques and algorithms : [Daniel Shiffman](https://www.youtube.com/user/shiffman)
+### A lot of aknowlegments and thanks for my professor during the learning of those techniques and algorithms : [Daniel Shiffman](https://www.youtube.com/user/shiffman)

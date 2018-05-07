@@ -1,9 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Part 1: https://youtu.be/aKYlikFAV4k
-// Part 2: https://youtu.be/EaZxUCWAjb0
-// Part 3: https://youtu.be/jwRT4PCT6RU
 
 // Function to delete element from the array
 function removeFromArray(arr, elt) {
@@ -135,7 +129,7 @@ function draw() {
       }
 
     }
-  // Uh oh, no solution
+    // Uh oh, no solution
   } else {
     console.log('no solution');
     noLoop();
@@ -171,7 +165,7 @@ function draw() {
 
 
   // for (var i = 0; i < path.length; i++) {
-    // path[i].show(color(0, 0, 255));
+  // path[i].show(color(0, 0, 255));
   //}
 
   // Drawing path as continuous line
