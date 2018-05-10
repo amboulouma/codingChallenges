@@ -8,6 +8,7 @@ A repo containing my coding challenges with their [previews](https://aminemboulo
 * [Fractal Trees (object-oriented)](https://aminemboulouma.github.io/codingChallenges/OOFractalTrees)
 * [TSP (Traveling SalesPerson)](https://aminemboulouma.github.io/codingChallenges/travelingSalesPerson)
 * [A* pathfinding algorithm](https://aminemboulouma.github.io/codingChallenges/A_star_pathfinding)
+* [Markov Chains](https://aminemboulouma.github.io/codingChallenges/markov_chains)
 
 ## Find me 
 * [Website](https://amine.boulouma.com)
